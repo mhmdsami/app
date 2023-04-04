@@ -1,0 +1,15 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environments
+venv/
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
